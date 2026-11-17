@@ -46,3 +46,16 @@
 .has-submenu:focus-within > .submenu { 
     display: block; 
 } 
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    line-height: 1.15;
+    margin-left: 3em;
+    margin-right: 2em;
+}
+
+h1 {
+    font: bold;
+    
+}
